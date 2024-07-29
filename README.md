@@ -1,4 +1,8 @@
 # Adaptive-Workflow-Engine-with-Process-Mining-and-Automated-Compliance-Checks
+<p align="center">
+  <img width="460" height="300" src="https://github.com/user-attachments/assets/a3b1543e-0eb5-4fd2-8280-9fd3342d650b"
+>
+</p>
 This project aims to create an intelligent and adaptive workflow engine leveraging advanced technologies in machine learning and process mining.
 Here is a professional README file for the project:
 The system includes the following key components:
